@@ -6,17 +6,17 @@
    >* The root folder of your project
 2. src/
    > * main source code folder
-   > - → main/
+    - → main/
         * content the main application 
-    >- → controller/
+    - → controller/
         * Handel in input and outputs
-    >- → service/
+   - → service/
         * user or business rule ex:login page 
-    >- → Models/
+    - → Models/
         * Data Models and structure
-    >- → utils/
+   - → utils/
         * Helping Function
-    >- → config/
+        - → config/
         *  environment setup and structure
 3. resources/
     >- → Template File
