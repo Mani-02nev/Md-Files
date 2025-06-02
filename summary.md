@@ -19,7 +19,7 @@
         - → config/
         *  environment setup and structure
 3. resources/
-    >- → Template File
+    - → Template File
         - → HTML
         - → CSS & JS
         - → Images
