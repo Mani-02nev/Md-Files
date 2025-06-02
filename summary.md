@@ -3,9 +3,9 @@
 ###### summery : 
 ***
 1. project name/
-   >* The root folder of your project
+   * The root folder of your project
 2. src/
-   > * main source code folder
+    * main source code folder
     - → main/
         * content the main application 
     - → controller/
@@ -24,23 +24,23 @@
         - → CSS & JS
         - → Images
 4. Test/
-    >- → Testing or Test Case File
+    - → Testing or Test Case File
 5. Script/
-    >- → Automation works
-    >- → deployment
+    - → Automation works
+    - → deployment
 6. doc/
-    >- → Manual Files and MD Format Files
-    >- → Diagrams And Blue Prints
+    - → Manual Files and MD Format Files
+    - → Diagrams And Blue Prints
 7. Git/
-    >- → Using Git Repos
+    - → Using Git Repos
 8. Gitignore/
-    >- → Not using Or Ignore Repos
+    - → Not using Or Ignore Repos
 9. Requirements/
-    >- → Using Library File Name In .txt Format
+    - → Using Library File Name In .txt Format
 10. setup/V
-    >- → Library Files Insert And Instal proses
+    - → Library Files Insert And Instal proses
 11. .env/   
-    >- → Secret Information And Not Add In Git
+    - → Secret Information And Not Add In Git
 *** 
 
 
