@@ -38,7 +38,7 @@
 9. Requirements/
     - → Using Library File Name In .txt Format
 10. setup/V
-    - → Library Files Insert And Instal proses
+    - → Library Files Insert And Install proses
 11. .env/   
     - → Secret Information And Not Add In Git
 *** 
