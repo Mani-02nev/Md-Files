@@ -16,7 +16,7 @@
         * Data Models and structure
    - → utils/
         * Helping Function
-        - → config/
+   - → config/
         *  environment setup and structure
 3. resources/
     - → Template File
